@@ -76,14 +76,17 @@ RA=7.2KΩ, RB= 3.6KΩ
 
 
   **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
+  
+<img width="1254" height="1601" alt="WhatsApp Image 2026-09-12 at 7 53 44 PM" src="https://github.com/user-attachments/assets/59bb1049-c55e-4a44-9917-a02b295b3b53" />
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 7 53 44 PM (1)" src="https://github.com/user-attachments/assets/6977c2db-454e-45b0-ac2f-622ff880da5a" />
 
 
   **TABULATION:**
  
+<img width="1600" height="794" alt="WhatsApp Image 2026-09-12 at 7 53 46 PM" src="https://github.com/user-attachments/assets/87b98109-1a14-456e-9a14-b8756e5d129e" />
 
+<img width="1600" height="563" alt="WhatsApp Image 2026-09-12 at 7 53 45 PM" src="https://github.com/user-attachments/assets/6de38a62-a277-4298-9e71-c6863e33ed4c" />
 
 
 
